@@ -8,3 +8,4 @@ Author: Dr. Verónica Espinoza.
 
 Year of publication:2024
 
+![image](https://github.com/Veruka2021/IMAGES/blob/main/Visual%20Guide%20How%20to%20utilize%20NodeXL%20Importers%20and%20further%20functionalities.%20(png).png)
