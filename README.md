@@ -10,7 +10,7 @@ Licence creative commons attribution 4.0
 
 **Please cite the document as follows:**
 
-Espinoza González, V. (2024). *Visual Guide: How to utilize NodeXL Importers and further functionalities* [Archivo PDF]. GitHub. [https://github.com/Veruka2021/Visual-Guide-How-to-utilize-NodeXL-Importers-and-further-functionalities.?tab=readme-ov-file)
+Espinoza-González, V. (2024). Visual Guide: How to utilize NodeXL importers and further functionalities. (First version). Zenodo. https://doi.org/10.5281/zenodo.13299188
 
 
 
